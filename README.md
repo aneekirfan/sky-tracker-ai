@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # 🚁 Sky Tracker – AI‑Enhanced Drone Telemetry & Monitoring System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
